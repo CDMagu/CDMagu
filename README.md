@@ -7,7 +7,7 @@ Hi! I'm **Chris Magu**, a driven and versatile **Data Engineer** with a backgrou
 I specialize in:
 
 - **Data Engineering**: Building end-to-end data pipelines that enable businesses to derive actionable insights from raw data.
-- **Cloud Technologies**: Expertise in **AWS** and **Azure**, utilizing services like **Azure Data Factory**, **Azure Blob Storage**, and **Databricks**.
+- **Cloud Technologies**: Expertise in **AWS** and **Azure**, utilizing services like **Azure Data Factory**, **AWS Glue** **Databricks** and many more.
 - **Big Data Tools**: Kafka, Zookeeper, Spark, Cassandra.
 - **Orchestration and Automation**: Experience with **Apache Airflow** to orchestrate complex workflows.
 - **SQL & Python**: Proficient in SQL for querying and data management, and Python for data manipulation and automation.
