@@ -7,9 +7,9 @@ Hi! I'm **Chris Magu**, a driven and versatile **Data Engineer** with a backgrou
 I specialize in:
 
 - **Data Engineering**: Building end-to-end data pipelines that enable businesses to derive actionable insights from raw data.
-- **Cloud Technologies**: Expertise in **AWS** and **Azure**, utilizing services like **Azure Data Factory**, **AWS Glue** **Databricks** and many more.
+- **Cloud Technologies**: Proficiency in **AWS** and **Azure** alongside utilising services like  **Databricks** and **Snowflake**.
 - **Big Data Tools**: Kafka, Zookeeper, Spark, Cassandra.
-- **Orchestration and Automation**: Experience with **Apache Airflow** to orchestrate complex workflows.
+- **Orchestration and Automation**: Experience with **Apache Airflow**, **Databricks Workflows** to orchestrate complex workflows.
 - **SQL & Python**: Proficient in SQL for querying and data management, and Python for data manipulation and automation.
 
 ## 🌍 Projects
@@ -17,6 +17,8 @@ I specialize in:
 - **Ecommerce ETL Pipeline**: Developed a data pipeline to process eCommerce data from Kaggle, transforming and loading it into Azure Blob Storage, and building business metrics in Power BI.
 - **Streaming Data Pipeline**: Implemented a data engineering pipeline using Kafka, Airflow, PostgreSQL, Spark, and Cassandra to stream and process real-time data.
 - **Data Engineering with Docker**: Containerized my projects using Docker to ensure seamless and scalable deployment across environments.
+- **AWS spotify end to end data engineering project**: Developed an ETL pipeline utilising Python and AWS Services to process Spotify data extracted through its API for various analytical use cases.
+
 
 ## 🎓 Education & Certifications
 
@@ -24,12 +26,13 @@ I specialize in:
 
 **Certifications**:
 - Databricks Data Engineer Associate
+- Databricks Data Engineer Proffesional (Currently working towards)
 - Microsoft Certified: Azure Data Fundamentals
 - DataCamp Data Analyst Associate
 
 ## 💡 What I'm Learning
 
-I’m currently learning **Japanese** and exploring more about **data-related technologies** and **AI engineering**.
+Currently learning **Japanese** and exploring more about **data-related technologies** and **AI engineering**.
 
 ## 💬 Let’s Connect!
 
