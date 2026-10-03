@@ -1,39 +1,145 @@
-# Chris Magu | Data Engineer | 🚀 Lifelong Learner | 🌐 Passionate about Data & Technology
+# Chris Magu
 
-Hi! I'm **Chris Magu**, a driven and versatile **Data Engineer** with a background in Aerospace Engineering and experience in building robust data pipelines, streamlining processes, and driving data-driven solutions. I thrive in leveraging cutting-edge technologies to solve complex problems and continuously push the boundaries of what data and technology can do.
+### Data & Analytics Engineer | Databricks | Python | SQL | Cloud | AI
 
-## 🌟 What I Do
+I'm a **Data & Analytics Engineer with 5+ years of experience** building scalable data platforms, production pipelines and analytics-ready datasets across **elite football, government and financial services**.
 
-I specialize in:
+Currently empowering elite level football analyics, where I build and optimise data products supporting football analytics across a global network of clubs.
 
-- **Data Engineering**: Building end-to-end data pipelines that enable businesses to derive actionable insights from raw data.
-- **Cloud Technologies**: Proficiency in **AWS** and **Azure** alongside utilising services like  **Databricks** and **Snowflake**.
-- **Big Data Tools**: Kafka, Zookeeper, Spark, Cassandra.
-- **Orchestration and Automation**: Experience with **Apache Airflow**, **Databricks Workflows** to orchestrate complex workflows.
-- **SQL & Python**: Proficient in SQL for querying and data management, and Python for data manipulation and automation.
+My main interests are **data engineering, distributed systems, analytics engineering and applied AI**, particularly where they intersect with sport.
 
-## 🌍 Projects
+---
 
-- **Ecommerce ETL Pipeline**: Developed a data pipeline to process eCommerce data from Kaggle, transforming and loading it into Azure Blob Storage, and building business metrics in Power BI.
-- **Streaming Data Pipeline**: Implemented a data engineering pipeline using Kafka, Airflow, PostgreSQL, Spark, and Cassandra to stream and process real-time data.
-- **Data Engineering with Docker**: Containerized my projects using Docker to ensure seamless and scalable deployment across environments.
-- **AWS spotify end to end data engineering project**: Developed an ETL pipeline utilising Python and AWS Services to process Spotify data extracted through its API for various analytical use cases.
+## What I Work With
 
+**Languages**
+- Python
+- SQL
+- PySpark
 
-## 🎓 Education & Certifications
+**Data Engineering**
+- Databricks
+- Apache Spark
+- Delta Lake
+- dbt
+- Apache Airflow
+- Kafka
+- Snowflake
+- Fivetran
 
-- **MEng in Aerospace Engineering**, University of Leicester (2017–2021)
+**Cloud**
+- Azure
+- AWS
 
-**Certifications**:
-- Databricks Data Engineer Associate
-- Databricks Data Engineer Proffesional (Currently working towards)
-- Microsoft Certified: Azure Data Fundamentals
-- DataCamp Data Analyst Associate
+**Data Modelling & Analytics**
+- Medallion Architecture
+- Dimensional Modelling
+- Data Vault 2.0
+- Power BI
+- Tableau
+- Streamlit
 
-## 💡 What I'm Learning
+**AI Engineering**
+- OpenAI API
+- LangChain
+- Pinecone
+- RAG
+- Vector Databases
+- Embeddings
+- Claude Code
+- OpenAI Codex
 
-Currently learning **Japanese** and exploring more about **data-related technologies** and **AI engineering**.
+**Engineering**
+- Git
+- GitHub
+- Azure DevOps
+- CI/CD
+- Docker
 
-## 💬 Let’s Connect!
+---
 
-I’m always eager to learn, collaborate, and contribute to impactful projects. Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/chrismagu/) or explore my repos here on GitHub!
+## Selected Projects
+
+### Spotify Data Platform | AWS
+
+Built an automated data pipeline for analysing Spotify's top songs in Japan.
+
+- Automated daily ingestion using AWS Lambda and CloudWatch
+- Implemented a Bronze / Silver / Gold architecture in Amazon S3
+- Transformed Spotify API data into analytics-ready datasets
+- Used AWS Glue and Athena for serverless querying
+- Connected curated datasets to Power BI and Tableau
+
+**Tech:** Python · AWS Lambda · S3 · Glue · Athena · CloudWatch · Pandas · Spotipy
+
+---
+
+### Football Scouting RAG Pipeline
+
+Built a Retrieval Augmented Generation system that turns unstructured football scouting reports into a searchable knowledge base.
+
+- Processed 20+ PDF scouting reports
+- Implemented document chunking and embedding pipelines
+- Stored embeddings in Pinecone with stable IDs for idempotent ingestion
+- Built semantic retrieval and LLM-generated responses
+- Iteratively evaluated retrieval quality and chunking strategies
+
+**Tech:** Python · LangChain · OpenAI · Pinecone · RAG · Vector Search
+
+---
+
+### Real-Time Streaming Data Pipeline
+
+Built an end-to-end streaming architecture for ingesting and processing real-time data.
+
+**Tech:** Kafka · Spark Streaming · Airflow · PostgreSQL · Cassandra · Docker
+
+---
+
+### Azure E-Commerce Data Platform
+
+Built an end-to-end ETL pipeline for e-commerce analytics.
+
+- Ingested raw data using Azure Data Factory
+- Transformed datasets using Databricks and PySpark
+- Created analytics-ready datasets for Power BI
+
+**Tech:** Azure · Databricks · PySpark · ADF · Power BI
+
+---
+
+## Certifications
+
+- **Databricks Certified Data Engineer Professional**
+- **Microsoft Certified: Azure Data Fundamentals**
+- **DataCamp Associate Data Engineer in SQL**
+- **DataCamp Data Analyst Associate**
+
+---
+
+## Currently Exploring
+
+I'm continuously improving my skills across:
+
+- Advanced **Databricks & Spark engineering**
+- **Data platform architecture**
+- **AI engineering and LLM applications**
+- **Software engineering practices for data systems**
+- Building data and AI projects around **football analytics**
+- Japanese language 🇯🇵
+
+---
+
+## Beyond Data
+
+I originally studied **Aerospace Engineering (MEng)** at the University of Leicester before moving into data engineering.
+
+Outside of engineering, I'm particularly interested in **football analytics, running, technology and Japanese language & culture**.
+
+---
+
+## Connect
+
+I'm always interested in discussing data engineering, AI, football analytics and interesting technical projects.
+
+[LinkedIn](https://www.linkedin.com/in/chrismagu/) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
